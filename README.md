@@ -169,6 +169,13 @@ example-teamcity/
 │   ├── 12_pom_xml.png
 │   ├── 13_settings_xml.png
 │   └── 14_vcs_root.png
+├── terraform/
+│   ├── main.tf
+│   ├── provider.tf
+│   ├── variables.tf
+│   ├── outputs.tf
+│   └── .terraform.lock.hcl
+├── .gitignore
 ├── pom.xml
 └── README.md
 ```
